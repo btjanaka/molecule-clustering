@@ -74,6 +74,7 @@ dependencies:
   - matplotlib=3.1.1
   - matplotlib-base=3.1.1
   - mistune=0.8.4
+  - mplcursors=0.3
   - msgpack-python=0.6.2
   - nbconvert=5.6.0
   - nbformat=4.4.0
@@ -118,7 +119,7 @@ dependencies:
   - qcelemental=0.9.0
   - qcengine=0.11.0
   - qcfractal=0.11.0
-  - qcportal=0.11.0
+  - qcportal=0.11.1
   - qt=5.9.7
   - qtconsole=4.5.5
   - readline=8.0
